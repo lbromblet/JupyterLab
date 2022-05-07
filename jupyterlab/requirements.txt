@@ -1,0 +1,7 @@
+cython
+numpy
+pandas
+matplotlib
+#netCDF4
+lxml
+folium
